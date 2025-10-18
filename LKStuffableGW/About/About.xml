@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>LK Stuffable Grimworld Gear</name>
+    <author>LeutianKane</author>
+    <modVersion>1.0.1.0</modVersion>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <packageId>LeutianKane.StuffGW40k</packageId>
+    <description>Patches that make all metal or power armor type armor in Grimworld 40k mods Stuffable.ie craftable with 100 metal plus original cost.
+    [b]Mods Supported[/b]
+    [code]
+    ---Hammer of the Imperium  
+    ---Dead Men 
+    ---Regiments of Renown 
+    ---Talons of the Emperor 
+    ---Angels of Death 
+    ---Heresy Armor Addon 
+    ---Scattered Sons 
+    ---Tau Astartes Armor Addon 
+    ---Traitor Marine Armor Addon 
+    [/code] 
+    </description>
+    <modDependencies>
+       
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>   
+        </li>
+         <li>
+            <packageId>Grimworld.Core</packageId>
+            <displayName>GrimWorld 40,000 - Core Imperialis</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/3018671708</steamWorkshopUrl>    
+        </li>
+    </modDependencies>
+    <loadAfter>
+    <li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+        <li>Ludeon.RimWorld.Odyssey</li>
+        <li>brrainz.harmony</li>
+        <li>Grimworld.Core</li>
+        <li>Grimworld.DeadMen</li>
+        <li>Grimworld.AstraMilitarum</li>
+        <li>Grimworld.RegimentsOfRenown</li>
+        <li>grimworld.talonOfTheEmperor</li>
+        <li>HappyPurging.AgeofDarkness</li>
+        <li>Grimworld.Iron</li>
+        <li>grimworld.scatteredsons</li>
+        <li>Grimworld.Taustartes</li>
+        <li>Grimworld.ChaosArmor</li>
+
+    </loadAfter>
+</ModMetaData>

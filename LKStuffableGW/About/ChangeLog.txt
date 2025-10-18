@@ -1,0 +1,6 @@
+# Changelog for LK Stuffable Grimworld Gear
+# Author is LeutianKane
+
+
+
+1.0.1.0  ---Initial Release, Patches that make all metal or power armor type armor in Grimworld 40k mods Stuffable.ie craftable with 100 metal plus original cost.
